@@ -120,7 +120,3 @@ messageHandler.register('custom', customStrategy);
 - Error boundaries
 - Graceful shutdown
 - Resource cleanup
-
-## License
-
-MIT
